@@ -35,11 +35,11 @@
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
 
 ## 寻求帮助
-  1. 联系作者，1v1有偿提供帮助：1162466610@qq.com
+  1. 联系作者，1v1有偿提供帮助：122670574
   2. 加入群聊，与群友们讨论：如果需要的人多我就建立一个群
 
 
 ## 请作者喝咖啡吧
 如果作者的仓库对你有帮助的话，请作者喝杯咖啡支持一下作者吧
 
-<img title="" src="https://github.com/wang-zhiyang/xhscrawl/assets/55040284/89bb6534-5e74-44bb-b728-dc771fe9f2b1" alt="WechatIMG106" width="300">
+<img title="" src="" alt="WechatIMG106" width="300">
